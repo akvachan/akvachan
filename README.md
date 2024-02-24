@@ -18,6 +18,6 @@
 
 <h3 align="left">Personal Website:</h3>
 <p align="left">
-<a href="https://www.cip.ifi.lmu.de/~arsenii/" target="blank"><img align="center" src="https://webstockreview.net/images/website-icon-png.png" alt="arsenii kvachan" height="30" width="40" /></a>
+<a href="https://www.cip.ifi.lmu.de/~arsenii/" target="blank"><img align="center" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" height="40" width="40" /></a>
 </p>
 
