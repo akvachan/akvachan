@@ -1,9 +1,11 @@
 <h1 align="center">Arsenii Kvachan</h1>
-<h3 align="center">Computational linguistics and Informatics student with passion for programming</h3>
+<h3 align="center">AI Engineer</h3>
 
 <p align="center"><img src="https://media.giphy.com/media/QsRReqDtXhF0pWlGGB/giphy-downsized-large.gif" alt="animated" /></p>
 
 - Currently working on [EHOSS](https://ehoss.com/)
+
+- BSc in Computer Science and NLP
 
 - Learning **PyTorch, Tensorflow**
 
