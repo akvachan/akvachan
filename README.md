@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/QsRReqDtXhF0pWlGGB/giphy-downsized-large.gif" alt="animated" /></p>
 
-- Currently working on [EHOSS](https://ehoss.com/)
+- Currently working at [EHOSS](https://ehoss.com/)
 
 - BSc in Computer Science and NLP
 
