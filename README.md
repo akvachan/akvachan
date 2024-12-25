@@ -10,7 +10,7 @@
 
 My current working setup:
 
-- OS: macOS arm64.
+- OS: macOS (arm64).
 - WM: yabai.
 - Terminal: kitty.
 - Editor: vim/nvim.
