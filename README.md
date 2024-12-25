@@ -8,6 +8,15 @@
 - Certified **Google Cloud** and **Tensorflow** expert.
 - Currently learning low-level programming, especially interested in GPU computation with C++.
 
+My current working setup:
+
+- OS: macOS arm64.
+- WM: yabai.
+- Terminal: kitty.
+- Editor: vim/nvim.
+- Keyboard: Dygma Defy.
+- Layout: Colemak. 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arseniikvachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsenii kvachan" height="30" width="40" /></a>
