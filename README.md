@@ -3,15 +3,10 @@
 
 <p align="center"><img src="https://media.giphy.com/media/QsRReqDtXhF0pWlGGB/giphy-downsized-large.gif" alt="animated" /></p>
 
-- Currently working at [EHOSS](https://ehoss.com/)
-
-- BSc in Computer Science and NLP
-
-- Learning **PyTorch, Tensorflow**
-
-- Curious about **Machine Learning and Data Science**
-
-- You can reach me at **arsenii@kvachan.com**
+- Currently working at **PWC Slovakia as AI Developer**.
+- BSc in **Computer Science** and **NLP**.
+- Certified **Google Cloud** and **Tensorflow** expert.
+- Currently learning low-level programming, especially interested in GPU computation with C++.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
