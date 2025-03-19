@@ -1,12 +1,10 @@
 <h1 align="center">Arsenii Kvachan</h1>
-<h3 align="center">AI Engineer</h3>
-
-<p align="center"><img src="https://media.giphy.com/media/QsRReqDtXhF0pWlGGB/giphy-downsized-large.gif" alt="animated" /></p>
+<h3 align="center">AI Developer</h3>
 
 - Currently working at **PWC Slovakia as AI Developer**.
 - BSc in **Computer Science** and **NLP**.
 - Certified **Google Cloud** and **Tensorflow** expert.
-- Currently learning low-level programming, especially interested in GPU computation with C++.
+- Interested in GPUs programming for AI/ML.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
