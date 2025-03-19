@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/arseniikvachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsenii kvachan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Personal Website:</h3>
+<h3 align="left">Web:</h3>
 <p align="left">
 <a href="https://www.cip.ifi.lmu.de/~arsenii/" target="blank"><img align="center" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" height="40" width="40" /></a>
 </p>
