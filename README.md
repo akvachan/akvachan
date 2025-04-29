@@ -13,8 +13,6 @@
 
 <h3 align="left">Web:</h3>
 <p align="left">
-<a href="https://www.cip.ifi.lmu.de/~arsenii/" target="blank"><img align="center" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" height="40" width="40" /></a>
-
-This is my old website from university, migration to github pages with the most recent, juicy info is planned.
+<a href="https://akvachan.github.io" target="blank"><img align="center" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" height="40" width="40" /></a>
 </p>
 
