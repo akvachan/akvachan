@@ -4,7 +4,6 @@
 - Currently working at **PWC Slovakia as AI Developer**.
 - BSc in **Computer Science** and **NLP**.
 - Certified **Google Cloud** and **Tensorflow** expert.
-- Interested in GPUs programming for AI/ML.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
