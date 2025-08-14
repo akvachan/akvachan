@@ -2,8 +2,8 @@
 <h3 align="center">AI Developer</h3>
 
 - Currently working at **PWC Slovakia as AI Developer**.
-- BSc in **Computer Science** and **NLP**.
-- Certified **Google Cloud** and **Tensorflow** expert.
+- Pursuing MSc in Data Science in University of Amsterdam.
+- Certified **GCP**, **Tensorflow**, **Azure AI** expert.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
