@@ -1,14 +1,7 @@
 <h1 align="center">Arsenii Kvachan</h1>
-<h3 align="center">AI Developer</h3>
+<h3 align="center">Software Developer</h3>
 
-- Currently working at **PWC Slovakia as AI Developer**.
-- Pursuing MSc in Data Science in University of Amsterdam.
-- Certified **GCP**, **Tensorflow**, **Azure AI** expert.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arseniikvachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsenii kvachan" height="30" width="40" /></a>
-</p>
+wazzup hommies
 
 <h3 align="left">Web:</h3>
 <p align="left">
